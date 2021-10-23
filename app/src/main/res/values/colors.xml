@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5F13E6</color>
+    <color name="colorPrimaryDark">#5F13E6</color>
+    <color name="colorAccent">#5F13E6</color>
+
+
+    <color name="purple">#AC94D8</color>
+    <color name="yellow">#FFC107</color>
+
+
+    <color name="black">#000000</color>
+    <color name="white">#FDFDFE</color>
+    <color name="lineForSpaces">#D6D7D7</color>
+    <color name="hintOfEditText">#848484</color>
+    <color name="colorOfForgetPasswordText">#636363</color>
+    <color name="blueColorForLoginWithFaceBook">#2E4381</color>
+    <color name="backgroundOfPromotionCodeOfPaymentInfo">#E1E2E5</color>
+    <color name="redColorForLoginButton">#D0051F</color>
+
+</resources>
